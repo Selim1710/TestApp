@@ -1,0 +1,27 @@
+URL:
+
+https://school-project-nazn.vercel.app/
+
+
+Username and password:
+
+A001
+S001
+T001
+0000
+
+
+123456
+
+
+
+
+
+
+# teacher add >> designation is not dynamic
+# class permission >> edit: designation,class, section, group is in input field.
+# Student list >> add : 
+	* if admission fee readonly then add a bg-gray.
+	* guardian, student: division wise district, district wise upazila is not showing.
+	* student: if current location is same as permanent location then.
+# 
